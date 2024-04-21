@@ -1,2 +1,5 @@
+#ignore private data
 .csv
+
+#ignore private weight
 .zip
